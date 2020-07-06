@@ -1,6 +1,6 @@
 ### Sergii is here 👋
 
-My name is **Sergii** and I am **Python Developer** from **Switzerland:
+My name is **Sergii** and I am **Python Developer** from **Switzerland:**
 
 - 🔭 **I’m currently** working on **Upwork.
 - 🌱 **Current tech stack** Python, Django, Flask, Postgres, HTML, CSS.
