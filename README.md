@@ -2,7 +2,6 @@
 
 My name is **Sergii** and **I am Python Developer:**
 
-- 🔭 **I’m currently** working on **Upwork**.
-- 🌱 **Current tech stack** Python, Django, Flask, Postgres, Docker, HTML, CSS.
-- 👯 **I’m looking for a new work opportunity.**
+- 🔭 **I’m currently** working on **Simple2B**.
+- 🌱 **Current tech stack** Python, Django, Flask, React, Postgres, Docker, HTML5, CSS3.
 - 📫 **How to reach me:** sergiishevchenko017@gmail.com, @sergsheva @ Telegram, sergey.shevchenko.39566 @ Facebook, sergii-shevchenko-63b368162 @ LinkedIn
