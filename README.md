@@ -1,6 +1,6 @@
 ### Sergey is here 👋
 
-My name is **Sergii** and **I am Python Developer:**
+My name is **Sergey** and **I am Python Developer:**
 
 - 🔭 **I’m currently** working on **AlignedCode**.
 - 🌱 **Current tech stack** Python, Django, Flask, React, Postgres, Docker, HTML5, CSS3.
