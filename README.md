@@ -1,4 +1,4 @@
-### Sergii is here 👋
+### Sergey is here 👋
 
 My name is **Sergii** and **I am Python Developer:**
 
