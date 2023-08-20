@@ -5,12 +5,7 @@ Outstanding communication skills and ability to communicate effectively with int
 Self-motivated, with the ability to work independently as well as part of a team.\
 Fluent in **Russian** with a good command of **English** and **Ukrainian**.
 
-
-:notebook: **Contacts**
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/sergsheva)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-shevchenko-63b368162/)
-
+--------------------
 
 **Technology stack I use**   :arrow_heading_down:
 
@@ -65,3 +60,10 @@ Fluent in **Russian** with a good command of **English** and **Ukrainian**.
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/-React-%232c3e50?style=flat-square&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
+----------------------
+
+:notebook: **Contacts**
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/sergsheva)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-shevchenko-63b368162/)
