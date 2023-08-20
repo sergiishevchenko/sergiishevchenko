@@ -1,11 +1,20 @@
 ### Sergey is here 👋
 
-**I am a Python Developer.** with a background in **Mechanical Engineering**.
-Experienced in working with various **Python Integrated Development Environments**. Outstanding communicaDon skills and ability to communicate effecDvely with internal customers. Self-moDvated, with the ability to work independently as well as part of a team. Fluent in **Russian** with a good command of **English** and **Ukrainian**.
+**I am a Python Developer** with basic understanding of **Frontend** technologies.\
+Outstanding communication skills and ability to communicate effectively with internal customers.\
+Self-motivated, with the ability to work independently as well as part of a team.\
+Fluent in **Russian** with a good command of **English** and **Ukrainian**.
 
-### Technology stack
 
-**Backend**
+:notebook: **Contacts**
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/sergsheva)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-shevchenko-63b368162/)
+
+
+**Technology stack I use**   :arrow_heading_down:
+
+:computer:  **Backend**
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
@@ -17,7 +26,7 @@ Experienced in working with various **Python Integrated Development Environments
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white)
 
-**Databases**
+:floppy_disk:  **Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
@@ -25,14 +34,14 @@ Experienced in working with various **Python Integrated Development Environments
 ![Redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=Redis)
 ![MongoDB](https://img.shields.io/badge/MongoDB-A9?style=flat-square&logo=mongodb&logoColor=white)
 
-**Frontend**
+:desktop_computer:  **Frontend**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vue-dot-js)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 
-**Tools**
+:hammer_and_wrench:  **Tools**
 
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
@@ -51,15 +60,8 @@ Experienced in working with various **Python Integrated Development Environments
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=flat-square&logo=prettier&logoColor=F7BA3E)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 
-**Learning**
+:rocket:  **Learning**
 
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/-React-%232c3e50?style=flat-square&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-
-
-### Contacts
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/sergsheva)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-shevchenko-63b368162/)
-[![GMail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](sergiishevchenko017@gmail.com)
