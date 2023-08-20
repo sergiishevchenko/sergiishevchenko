@@ -62,4 +62,4 @@ Experienced in working with various **Python Integrated Development Environments
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/sergsheva)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-shevchenko-63b368162/)
-[![GMail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)]()
+[![GMail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](sergiishevchenko017@gmail.com)
