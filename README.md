@@ -40,20 +40,19 @@ Fluent in **Russian** with a good command of **English** and **Ukrainian**.
 
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
-
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=apple&logoColor=white)
+
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%181717.svg?style=flat-square&logo=gitlab&logoColor=white)
 ![GitLab Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat-square&logo=bitbucket&logoColor=white)
 ![Travis CI](https://img.shields.io/badge/travis_CI-3EAAAF?style=flat-square&logo=travisci&logoColor=white)
-![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=flat-square&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=flat-square&logo=prettier&logoColor=F7BA3E)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
 
 :rocket:  **Learning**
 
