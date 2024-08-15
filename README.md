@@ -14,11 +14,13 @@
 
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
+<img align="left" alt="React" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
+
 <img align="left" alt="VueJS" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" />
 
 <img align="left" alt="C" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />
 
-<img align="left" alt="C" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="C++" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
 
 <img align="left" alt="Docker" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
