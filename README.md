@@ -34,11 +34,10 @@
 
 <img align="left" alt="Nginx" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" />
 
-<img align="left" alt="Redis" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" />
-
+<img align="left" alt="Redis" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" /><br>
+  
+#### **Statistics:**
 <p align="left" style="display: flex; align-items: center; gap: 10px;">
-  <br><br>
-  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serg-backend-developer&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
   <img src="https://github-readme-stats.vercel.app/api?username=serg-backend-developer&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
 </p>
