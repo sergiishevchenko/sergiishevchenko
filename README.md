@@ -38,5 +38,5 @@
   
 #### **Statistics:**
 ![GitHub Metrics](https://github.com/serg-backend-developer/serg-backend-developer/blob/master/github-metrics.svg)
-![Most Used Languages](https://github.com/serg-backend-developer/serg-backend-developer/blob/master/languages-metrics.svg)
+![Most Used Languages](https://github.com/serg-backend-developer/serg-backend-developer/blob/master/metrics.plugin.languages.details.svg)
 
