@@ -37,7 +37,7 @@
 <img align="left" alt="Redis" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" /><br>
   
 #### **Statistics:**
-<p align="left" style="display: flex; align-items: center; gap: 10px;">
+<p align="center" style="display: flex; align-items: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=serg-backend-developer&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serg-backend-developer&layout=compact&langs_count=10&theme=radical" alt="stat" height="150" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=serg-backend-developer&theme=github" height="150" />
