@@ -13,4 +13,6 @@ jobs:
         with:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          config_display: large
+          config_display: small
+          config_twemoji: no
+          plugin_introduction: no
