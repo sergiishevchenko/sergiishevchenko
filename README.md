@@ -37,4 +37,4 @@
 <img align="left" alt="Redis" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" /><br>
   
 #### **Statistics:**
-![Metrics](https://github.com/serg-backend-developer/serg-backend-developer/blob/main/github-metrics.svg)
+![Metrics](https://github.com/serg-backend-developer/serg-backend-developer/blob/master/github-metrics.svg)
