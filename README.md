@@ -5,7 +5,7 @@
 </p>
 
 ### Sergey is here 👋
-
+---
 **I am a Backend Developer** with basic understanding of **Frontend** technologies. Outstanding communication skills and ability to communicate effectively with internal customers. Self-motivated, with the ability to work independently as well as part of a team. Fluent in **Russian** with a good command of **English** and **Ukrainian**.
                                                                                                                      
 **I use such Languages and Tools:**
@@ -41,7 +41,8 @@
 <img align="left" alt="Nginx" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" />
 
 <img align="left" alt="Redis" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" /><br>
-  
+
+---
 #### **Statistics:**
 <p align="left" style="display: flex; align-items: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=serg-backend-developer&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
