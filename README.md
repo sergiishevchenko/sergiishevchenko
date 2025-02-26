@@ -40,5 +40,5 @@
 <p align="left" style="display: flex; align-items: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serg-backend-developer&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
   <img src="https://github-readme-stats.vercel.app/api?username=serg-backend-developer&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://github.com/serg-backend-developer/serg-backend-developer/blob/output/github-contribution-grid-snake.svg" alt="Snake" height="150" />
+  <img src="https://github.com/serg-backend-developer/serg-backend-developer/blob/main/dist/snake.svg" />
 </p>
