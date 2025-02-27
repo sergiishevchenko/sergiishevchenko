@@ -43,6 +43,10 @@
 <img align="left" alt="Redis" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" /><br>
 
 #### **Statistics:**
-| [![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=serg-backend-developer&layout=compact&langs_count=10&theme=radical)](https://github.com/serg-backend-developer?tab=repositories) | [![GitHub stats](https://github-readme-stats.vercel.app/api?username=serg-backend-developer&show_icons=true&theme=radical)](https://github.com/serg-backend-developer?tab=repositories) |
-|:-:|:-:|
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=serg-backend-developer&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=serg-backend-developer&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+</a>
 
