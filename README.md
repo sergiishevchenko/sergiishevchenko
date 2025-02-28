@@ -3,6 +3,7 @@
 	<img alt="followers" src="https://img.shields.io/github/followers/serg-backend-developer?color=blueviolet" />
 	<img alt="stars" src="https://img.shields.io/github/stars/serg-backend-developer?color=blueviolet" />
 </p>
+
 ### Sergey is here 👋
 ---
 **I am a Backend Developer** with basic understanding of **Frontend** technologies. Outstanding communication skills and ability to communicate effectively with internal customers. Self-motivated, with the ability to work independently as well as part of a team. Fluent in **Russian** with a good command of **English** and **Ukrainian**.
