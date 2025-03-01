@@ -6,7 +6,7 @@
 
 ### Sergey is here 👋
 ---
-**I am a Backend Developer** with fundamental understanding of **Frontend** technologies. Outstanding communication skills and ability to communicate effectively with internal customers. Self-motivated, with the ability to work independently as well as part of a team. Fluent in **Russian** with a good command of **English** and **Ukrainian**.
+**I am a Backend Developer** with fundamental knowledge of **Frontend** technologies. Outstanding communication skills and ability to communicate effectively with internal customers. Self-motivated, with the ability to work independently as well as part of a team. Fluent in **Russian** with a good command of **English** and **Ukrainian**.
                                                                                                                      
 **I use such Languages and Tools:**
 
