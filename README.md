@@ -44,9 +44,9 @@
 
 #### **Statistics:**
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=serg-backend-developer" />
+  <img height=210 align="center" src="https://github-readme-stats.vercel.app/api?username=serg-backend-developer" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=serg-backend-developer&layout=compact&langs_count=8&card_width=320" />
+  <img height=210 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=serg-backend-developer&layout=compact&langs_count=8&card_width=320" />
 </a>
 
