@@ -32,6 +32,8 @@
 
 <img align="left" alt="C++" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
 
+<img align="left" alt="Bash" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" />
+
 <br><br>
 
 <img align="left" alt="Docker" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
@@ -40,13 +42,13 @@
 
 <img align="left" alt="SQLAlchemy" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-plain.svg" />
 
+<img align="left" alt="GraphQL" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" />
+
 <img align="left" alt="Redis" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" />
 
 <img align="left" alt="Pytest" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" />
 
 <img align="left" alt="Nginx" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" />
-
-<img align="left" alt="Redis" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" />
 
 <img align="left" alt="ELK" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" />
 
@@ -55,6 +57,8 @@
 <img align="left" alt="Prometheus" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" />
 
 <img align="left" alt="Jira" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" />
+
+<img align="left" alt="Git" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
 
 <br><br>
 
