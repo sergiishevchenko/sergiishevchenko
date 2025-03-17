@@ -34,11 +34,15 @@
 
 <img align="left" alt="Bash" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" />
 
-<br><br>
-
 <img align="left" alt="Docker" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
+<br><br>
+
+<img align="left" alt="MySQL" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
+
 <img align="left" alt="PostgreSQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+
+<img align="left" alt="MongoDB" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
 
 <img align="left" alt="SQLAlchemy" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-plain.svg" />
 
