@@ -32,6 +32,8 @@
 
 <img align="left" alt="C++" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
 
+<br><br>
+
 <img align="left" alt="Docker" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
 <img align="left" alt="PostgreSQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
@@ -47,8 +49,6 @@
 <img align="left" alt="Redis" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" />
 
 <img align="left" alt="ELK" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" />
-
-<br><br>
 
 <img align="left" alt="Grafana" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" />
 
