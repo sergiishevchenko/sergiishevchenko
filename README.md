@@ -55,7 +55,8 @@
 <img align="left" alt="Prometheus" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" />
 
 <img align="left" alt="Jira" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" />
-<br>
+
+<br><br>
 
 #### **Statistics:**
 <a href="https://github.com/anuraghazra/github-readme-stats">
