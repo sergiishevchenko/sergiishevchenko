@@ -20,6 +20,8 @@
 
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
+<img align="left" alt="TypeScript" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
+
 <img align="left" alt="React" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
 
 <img align="left" alt="VueJS" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" />
@@ -35,6 +37,8 @@
 <img align="left" alt="Bash" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" />
 
 <img align="left" alt="Docker" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+
+<img align="left" alt="Travis" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/travis/travis-original.svg" />
 
 <br><br>
 
@@ -56,11 +60,15 @@
 
 <img align="left" alt="ELK" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" />
 
+<img align="left" alt="Kibana" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/kibana/kibana-original.svg" />
+
 <img align="left" alt="Grafana" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" />
 
 <img align="left" alt="Prometheus" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" />
 
 <img align="left" alt="Jira" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" />
+
+<img align="left" alt="Postman" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" />
 
 <img align="left" alt="Git" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
 
