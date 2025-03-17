@@ -24,6 +24,10 @@
 
 <img align="left" alt="VueJS" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" />
 
+<img align="left" alt="NodeJS" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
+
+<img align="left" alt="Express" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" />
+
 <img align="left" alt="C" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />
 
 <img align="left" alt="C++" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
@@ -40,7 +44,18 @@
 
 <img align="left" alt="Nginx" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" />
 
-<img align="left" alt="Redis" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" /><br>
+<img align="left" alt="Redis" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" />
+
+<img align="left" alt="ELK" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" />
+
+<br><br>
+
+<img align="left" alt="Grafana" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" />
+
+<img align="left" alt="Prometheus" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" />
+
+<img align="left" alt="Jira" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" />
+<br>
 
 #### **Statistics:**
 <a href="https://github.com/anuraghazra/github-readme-stats">
