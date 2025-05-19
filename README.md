@@ -6,7 +6,9 @@
 
 ### Sergey is here 👋
 ---
-**I am a Backend Developer** with fundamental knowledge of **Frontend** technologies. Outstanding communication skills and ability to communicate effectively with internal customers. Self-motivated, with the ability to work independently as well as part of a team. Fluent in **Russian** with a good command of **English** and **Ukrainian**.
+**I am a Backend Developer** with fundamental knowledge of **Frontend** technologies and currently a student at **42Lausanne**. Outstanding communication skills and ability to communicate effectively with internal customers. Self-motivated, with the ability to work independently as well as part of a team. Fluent in **Russian** with a good command of **English** and **Ukrainian**.
+
+[![sshevche](https://badge.mediaplus.ma/kettlebells/sshevche?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/sshevche)
                                                                                                                      
 **I use such Languages and Tools:**
 
