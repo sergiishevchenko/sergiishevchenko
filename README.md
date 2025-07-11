@@ -81,6 +81,6 @@
   <img height=210 align="center" src="https://github-readme-stats.vercel.app/api?username=serg-backend-developer&cache_seconds=3600" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=210 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=serg-backend-developer&layout=compact&langs_count=8&card_width=320&cache_seconds=3600" />
+  <img height=210 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=serg-backend-developer&layout=compact&langs_count=8&card_width=320" />
 </a>
 
