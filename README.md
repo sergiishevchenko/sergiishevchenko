@@ -1,7 +1,7 @@
 <p align="right">
-	<img alt="visitors" src="https://komarev.com/ghpvc/?username=serg-backend-developer&color=8c36db&style=flat&label=visitors" />
-	<img alt="followers" src="https://img.shields.io/github/followers/serg-backend-developer?color=blueviolet" />
-	<img alt="stars" src="https://img.shields.io/github/stars/serg-backend-developer?color=blueviolet" />
+	<img alt="visitors" src="https://komarev.com/ghpvc/?username=sergiishevchenko&color=8c36db&style=flat&label=visitors" />
+	<img alt="followers" src="https://img.shields.io/github/followers/sergiishevchenko?color=blueviolet" />
+	<img alt="stars" src="https://img.shields.io/github/stars/sergiishevchenko?color=blueviolet" />
 </p>
 
 ### Sergey is here 👋
