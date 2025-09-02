@@ -73,14 +73,3 @@
 <img align="left" alt="Postman" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" />
 
 <img align="left" alt="Git" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
-
-<br><br>
-
-#### **Statistics:**
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=210 align="center" src="https://github-readme-stats.vercel.app/api?username=sergiishevchenko&cache_seconds=3600" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=210 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergiishevchenko&layout=compact&langs_count=8&card_width=320" />
-</a>
-
