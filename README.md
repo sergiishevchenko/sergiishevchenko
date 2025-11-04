@@ -6,7 +6,7 @@
 
 ### Sergey is here 👋
 ---
-**I am a Backend Developer** with fundamental knowledge of **Frontend** technologies and currently a student at **42Lausanne**. Outstanding communication skills and ability to communicate effectively with internal customers. Self-motivated, with the ability to work independently as well as part of a team. Fluent in **Russian** with a good command of **English** and **Ukrainian**.
+**Backend Developer** with a **Master's degree** in **Computer Science** and strong experience in **Python**, **Django**, **FastAPI**, **Flask**, **PostgreSQL**, **SQLAlchemy**, **Redis**, and **Docker**, as well as solid experience in **C** and **C++** for systems programming and algorithmic projects. Skilled in building scalable and maintainable backend systems, with additional knowledge of frontend technologies including **ReactJS**, **VueJS**, **JavaScript**, and **TypeScript**. Experienced with **DevOps** tools like **Nginx**, **ELK** stack, **Grafana**, **Prometheus**, and **CI/CD** pipelines. Currently a student at **42Lausanne**, self-motivated, with excellent communication skills and the ability to work independently or collaboratively. Fluent in **Russian**, with professional proficiency in **English** and **Ukrainian**. Passionate about creating robust, efficient, and high-quality software solutions.
 
 [![sshevche](https://badge.mediaplus.ma/kettlebells/sshevche?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/sshevche)
                                                                                                                      
